@@ -6,6 +6,10 @@
 **GitHub About / English:** Types a prepared text into the active Windows field when a form will not accept paste, such as an appeal or a complaint. No clipboard and no network.
 **Описание GitHub / Русский:** Печатает готовый текст в активное поле Windows, когда форма не даёт вставить обращение или жалобу. Без буфера обмена и без сети.
 
+**Лицензия:** [PolyForm Noncommercial 1.0.0](LICENSE). Некоммерческое использование разрешено. Коммерческое использование — только по отдельному соглашению с vibic777.
+**License:** [PolyForm Noncommercial 1.0.0](LICENSE). Noncommercial use is allowed. Commercial use requires a separate agreement with vibic777.
+
+
 ## Русский
 
 **Typer** — прикладной инструмент для Windows. Его сделали для сайтов и форм, где копирование и вставка закрыты и текст просят перепечатать вручную: обращение, жалоба, уже написанное заявление. Программа берёт локальный TXT и вводит его в активное поле как нажатия клавиш, чтобы не мучиться.
